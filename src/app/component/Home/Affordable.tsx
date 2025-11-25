@@ -44,7 +44,7 @@ const Affordable = () => {
   ]
 
   return (
-    <section className='grid grid-cols-12 mt-16 md:mt-20 '>
+    <section className='grid grid-cols-12 mt-16 md:mt-20 lg:mx-6 xl:mx-0'>
       <div className='col-span-12 xl:col-span-10 xl:col-start-2'>
         {/* Price */}
         <div>

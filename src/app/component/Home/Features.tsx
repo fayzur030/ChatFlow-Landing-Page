@@ -44,7 +44,7 @@ export default function Features() {
   ]
 
   return (
-    <section className='grid grid-cols-12 py-20 bg-gray-5'>
+    <section className='grid grid-cols-12 py-20 bg-gray-5 '>
       <div className='col-span-12 xl:col-span-10 xl:col-start-2  text-center'>
         <h1 className='text-3xl text-center md:text-[38px] font-bold text-[#0D082C] mb-4 px-4 md:px-0'>
           Powerful Features to Enhance Your <br className='hidden md:block' />

@@ -8,7 +8,7 @@ import NavBar from './Navbar'
 export default function Home() {
   return (
     <>
-      <div className='navbar md:h-[777px] h-auto'>
+      <div className='navbar md:h-[777px] h-auto lg:h-auto xl:h-auto'>
         <NavBar />
         <Hero />
       </div>

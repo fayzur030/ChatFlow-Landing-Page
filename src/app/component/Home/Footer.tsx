@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className='text-[#0D082C] grid grid-cols-12 py-12 font-sans mt-14 px-4 md:px-0'>
+    <footer className='text-[#0D082C] grid grid-cols-12 py-12 font-sans mt-14 px-4 md:px-0 lg:px-6 xl:px-0'>
       <section className='col-span-12 xl:col-span-10 xl:col-start-2'>
         {' '}
         <div className=' mb-10 flex flex-col md:flex-row md:justify-between md:items-start gap-6'>

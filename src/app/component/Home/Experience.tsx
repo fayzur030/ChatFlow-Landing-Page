@@ -3,11 +3,11 @@ import image from '../../assets/screenshort.png'
 
 export default function Experience() {
   return (
-    <section className='bg-[#F5AC76] grid grid-cols-12'>
-      <div className='col-span-12 xl:col-span-10 xl:col-start-2 py-20 grid md:grid-cols-2 items-center'>
+    <section className='bg-[#F5AC76] grid grid-cols-12 '>
+      <div className='col-span-12 xl:col-span-10 xl:col-start-2 py-20 grid md:grid-cols-2 items-center lg:mx-6 xl:mx-0'>
         <div>
           <h1 className='text-3xl md:text-[38px] font-bold leading-snug text-[#0D082C px-4 md:px-0 text-center md:text-left'>
-            Experience the Power of Our <br className='hidden md:block' /> Live
+            Experience the Power of Our <br className='hidden md:block lg:hidden' /> Live
             Chat
           </h1>
           <p className='mt-4 text-[#0D082C99] text-center md:text-left px-4 md:px-0 '>
